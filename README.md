@@ -228,3 +228,23 @@ This is not a generic multi-class ByteTrack setup. It is a human-focused trackin
 - confidence-aware matching for more reliable associations
 - adaptive track buffering to reduce fragmentation during occlusion
 - human-only demo inference with saved result videos
+
+---
+
+## Project Contribution & Attribution
+
+This project was developed collaboratively as a team project focused on
+multi-object tracking using ByteTrack with DIoU-based improvements.
+
+### My Contribution
+
+I contributed to the implementation, experimentation, testing, and evaluation
+of the improved object-tracking pipeline as part of the project team.
+
+### Original Collaborative Repository
+
+Original team repository: `Me-Ravi-Kumar/bytetrack_diou-_improved`
+
+This repository is maintained as my individual portfolio copy of the
+collaborative project. Credit for the collaborative work remains with all
+project contributors.
